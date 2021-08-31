@@ -1,3 +1,6 @@
+# check inside auth_api for code
+
+
 # Wizeline SRE Bootcamp Challenge
 
 Thank you for registering for the Wizeline Academy SRE Bootcamp, and welcome to the Technical Challenge!
